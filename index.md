@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages#FF0000
 
 You can use the [editor on GitHub](https://github.com/umi-summer-forever/summer-pockets.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
