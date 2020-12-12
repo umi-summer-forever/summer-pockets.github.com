@@ -9,8 +9,7 @@ Markdown
 |18|男|未婚|
 
 唔。。。。。。。。。，好像没有什么好说的了呢，但是我相信以后会有的，QWQ这是我第一个个人主页，感觉还不错。
-###Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-***
+大一新生一个，没有什么可说的，但在这里我可以说说我的高中，我的高中生活平平淡淡，参加过数学竞赛，没有什么成绩，乐于助人，没有什么人缘......算了，不说了，说了都是泪
 ### Markdown
 
 # **summer-pockets.github.com**
